@@ -3,6 +3,7 @@ import React from 'react';
 const GoogleBadge = ({ colors }) => {
   return (
     <div 
+      className="mobile-hide"
       style={{
         position: 'fixed',
         left: '20px',
