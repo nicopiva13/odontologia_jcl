@@ -1,0 +1,62 @@
+{
+  "benefits": [
+    { "icon": "/images/exp-degree.png", "title": "24 Años de Experiencia", "desc": "Od. Juan Cruz López, profesionalismo y capacitación constante." },
+    { "icon": "/images/exp-location.png", "title": "Ubicación Central", "desc": "Bv. Vélez Sarsfield 1170, Piso 7, Oficina 35, Villa María." },
+    { "icon": "/images/exp-card.png", "title": "Trato Humano", "desc": "Atención cálida y personalizada en cada consulta." },
+    { "icon": "/images/exp-lab.png", "title": "Tecnología Moderna", "desc": "Equipamiento de última generación para mejores resultados." }
+  ],
+  "testimonials": [
+    {
+      "name": "Daniela Chesare",
+      "text": "Excelente atención y sobre todo, puntualidad en el horario de los turnos.",
+      "rating": 5
+    },
+    {
+      "name": "Laura Tacorente",
+      "text": "La mejor atención recibida calidad humana !",
+      "rating": 5
+    },
+    {
+      "name": "Silvana Ramos",
+      "text": "Muy buena atención y disposición.",
+      "rating": 5
+    }
+  ],
+  "faq": [
+    { "q": "¿Dónde se encuentra el consultorio?", "a": "Estamos ubicados en Bv. Vélez Sarsfield 1170, Piso 7, Oficina 35, en pleno centro de Villa María, Córdoba." },
+    { "q": "¿Cómo puedo pedir un turno?", "a": "Podés solicitar tu turno de manera rápida y sencilla haciendo clic en el botón de WhatsApp de esta web o llamándonos al 0353 15-401-1465." },
+    { "q": "¿Qué tratamientos realizan?", "a": "Realizamos odontología integral, estética dental (blanqueamiento, carillas), implantes, ortodoncia y odontopediatría, siempre con la experiencia de 24 años del Dr. Juan Cruz López." },
+    { "q": "¿Atienden urgencias?", "a": "Sí, brindamos atención personalizada para resolver tus necesidades odontológicas a la brevedad. Contactanos por WhatsApp para coordinar." }
+  ],
+  "beforeAfter": [
+    {
+      "title": "Estética Dental",
+      "desc": "Resultados naturales que devuelven la confianza al sonreír.",
+      "imageBefore": "/images/veneers-before.png",
+      "imageAfter": "/images/veneers.png"
+    },
+    {
+      "title": "Rehabilitación Oral",
+      "desc": "Recuperación de la salud y funcionalidad dental.",
+      "imageBefore": "/images/implants-before.png",
+      "imageAfter": "/images/implants.png"
+    }
+  ],
+  "process": [
+    {
+      "step": "01",
+      "title": "Evaluación",
+      "desc": "Analizamos tu caso de forma personalizada para brindarte el mejor diagnóstico."
+    },
+    {
+      "step": "02",
+      "title": "Planificación",
+      "desc": "Diseñamos un plan de tratamiento adaptado a tus necesidades y tiempos."
+    },
+    {
+      "step": "03",
+      "title": "Tratamiento",
+      "desc": "Ejecutamos el procedimiento con calidez humana y tecnología de punta."
+    }
+  ]
+}

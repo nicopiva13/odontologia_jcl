@@ -1,0 +1,74 @@
+{
+  "name": "JCL Odontología",
+  "tagline": "Más de 24 años de excelencia cuidando tu sonrisa",
+  "logo": null,
+  "phone": "0353 15-401-1465",
+  "whatsapp": "5493534011465",
+  "whatsappLink": "https://wa.me/3534011465",
+  "address": "Bv. Vélez Sarsfield 1170, Piso 7, Ofic. 35, Villa María",
+  "instagram": "jcl.odontologia",
+  "youtube": "@jcl.odontologia",
+  "email": "contacto@jclodontologia.com.ar",
+  "colors": {
+    "primary": "#148464",
+    "accent": "#d8bf36",
+    "bg": "#f0efe5",
+    "dark": "#114f42",
+    "text": "#114f42"
+  },
+  "hero": {
+    "headline": "Tu sonrisa en manos expertas",
+    "subheadline": "Od. Juan Cruz López. Profesional con 24 años de trayectoria dedicado con pasión a devolver no sólo sonrisas, sino todo lo que ella implica.",
+    "ctaText": "Solicitar Turno por WhatsApp",
+    "ctaSubtext": "Atención personalizada e inmediata",
+    "image": "/images/hero_jcl.png"
+  },
+  "services": [
+    {
+      "icon": "🦷",
+      "title": "Odontología Integral",
+      "desc": "Cuidado preventivo y restaurador para toda la familia con 24 años de aval.",
+      "image": "/images/service_general.png"
+    },
+    {
+      "icon": "✨",
+      "title": "Estética Dental",
+      "desc": "Diseño de sonrisas, carillas y blanqueamiento de última generación.",
+      "image": "/images/service-whitening.png"
+    },
+    {
+      "icon": "🧬",
+      "title": "Implantes",
+      "desc": "Soluciones definitivas para recuperar la funcionalidad y estética.",
+      "image": "/images/service-implants.png"
+    },
+    {
+      "icon": "📏",
+      "title": "Ortodoncia",
+      "desc": "Alineación perfecta para una mordida funcional y armónica.",
+      "image": "/images/service-ortho.png"
+    },
+    {
+      "icon": "👶",
+      "title": "Odontopediatría",
+      "desc": "Cuidado especial y calidez para que los más chicos disfruten la visita.",
+      "image": "/images/service-kids.png"
+    },
+    {
+      "icon": "🩺",
+      "title": "Atención Personalizada",
+      "desc": "Escuchamos tus necesidades para brindarte la mejor solución.",
+      "image": "/images/service_custom.png"
+    }
+  ],
+  "schedule": [
+    {
+      "day": "Lunes a Viernes",
+      "hours": "9:00 – 20:00"
+    },
+    {
+      "day": "Turnos Programados",
+      "hours": "Consultar disponibilidad"
+    }
+  ]
+}

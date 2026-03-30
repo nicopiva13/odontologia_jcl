@@ -1,0 +1,25 @@
+/* variables.css */
+:root {
+  /* Fallbacks - Serán sobrescritos por el objeto style en App.jsx */
+  --primary: #148464;
+  --primary-light: rgba(20, 132, 100, 0.1);
+  --accent: #d8bf36;
+  --bg: #f0efe5;
+  --dark: #114f42;
+  --text: #114f42;
+  --light: #ffffff;
+  
+  /* Otras variables de diseño */
+  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 10px 30px rgba(0, 0, 0, 0.08);
+  --shadow-lg: 0 20px 40px rgba(0, 0, 0, 0.12);
+  
+  --radius-sm: 8px;
+  --radius-md: 16px;
+  --radius-lg: 24px;
+  --radius-full: 9999px;
+  
+  --transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+  --font-serif: 'Fraunces', serif;
+  --font-sans: 'Plus Jakarta Sans', sans-serif;
+}
